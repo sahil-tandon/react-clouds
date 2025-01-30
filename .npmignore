@@ -1,0 +1,39 @@
+# Source
+src/
+
+# Tests
+__tests__/
+coverage/
+*.test.ts
+*.test.tsx
+
+# Config files
+.eslintrc.js
+.prettierrc
+tsconfig.json
+rollup.config.js
+
+# Examples
+example/
+
+# Development tools
+.editorconfig
+.gitignore
+.npmignore
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Build tools
+node_modules/
+.npm
+.eslintcache
+
+# Documentation
+docs/
+*.md
+!README.md
